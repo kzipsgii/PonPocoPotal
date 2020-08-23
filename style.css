@@ -8,7 +8,7 @@
   padding-top: 5vh;
   padding-bottom: 5vh;
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   background-color: #808080;
   color: white;
 }
@@ -20,12 +20,12 @@
 
 .main-wrap{
   margin-top: 30px;
-  margin-bottom:30px;ß
+  margin-bottom: 20px;
 }
-
 .main-wrap p{
   font-size: 15px;
   margin-left: 5%;
+  color: rgb(80, 80, 80);
 }
 .main-wrap a{
   text-align: center;
@@ -34,10 +34,36 @@
   color: white;
   font-size: 2em;
   padding: 20px 10px;
-  margin: 0 5%;
+  margin: 0 5% 0 5%;
   display: block;
 }
 
-.main-wrap a:hover{
-  background-color: rgba(80,80,80,0.3);
+.ins:hover{
+  background-color: rgba(239, 133, 140, 0.8);
+}
+
+.fac:hover{
+  background-color: rgba(108, 155, 210, 0.8);
+}
+
+.not:hover{
+  background-color: rgba(97, 193, 190, 0.8);
+}
+
+.you:hover{
+  background-color: rgba(239, 132, 92, 0.8);
+}
+
+.hit:hover{
+  background-color: rgba(121, 107, 175, 0.8);
+}
+
+.mei:hover{
+  background-color: rgba(249, 194, 112, 0.8);
+}
+
+footer{
+  text-align: center;
+  height: 50px;
+  color: rgb(80, 80, 80);
 }
